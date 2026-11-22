@@ -1,0 +1,4 @@
+Transaction_ID,Date,Item,Quantity,Unit_Price,Subtotal,Transaction_Tax
+1,11/22/2026 13:33,coffee,2,250,500,80
+1,11/22/2026 13:33,cake,1,300,300,0
+1,11/22/2026 13:33,sandwich,2,400,800,0
